@@ -32,15 +32,6 @@
 </td>   
 
 <td align="center">
-    <img loading="lazy" src="https://avatars.githubusercontent.com/u/124270001?v=4" width=115><br>
-  <a href="https://github.com/mths0303s">
-      <sub>
-          mths0303s
-      </sub>
-  </a>
-</td>   
-
-<td align="center">
     <img loading="lazy" src="https://avatars.githubusercontent.com/u/124712609?v=4" width=115><br>
   <a href="https://github.com/matmizuno">
       <sub>
